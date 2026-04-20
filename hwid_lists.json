@@ -4,6 +4,11 @@
             "username": "zoro",
             "hwid": "eb86a501d25b5b7522442cae0f00bc521bc333f5e21eb0e3f95ac389b7af5249",
             "expiryDate": "2029-06-21"
+        },
+        {
+            "username": "chittu",
+            "hwid": "d542a2338f51cef994d04e87571b11a1ff2dd89b7f2bf39da8ac5a2cc83f3d5e",
+            "expiryDate": "2026-06-04"
         }
     ]
 }
